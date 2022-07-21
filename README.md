@@ -6,10 +6,11 @@ Transform a 360° equirectangular image to a perspective one.
 
 ## Dependency
 
-Install opencv
+Install opencv and numpy
 
 ```bash
   pip3 install opencv-python
+  pip3 install numpy
 ```
     
 ## Usage/Examples
